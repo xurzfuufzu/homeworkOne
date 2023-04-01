@@ -1,0 +1,26 @@
+img{
+    width: 200px;
+    height: 100%;
+    margin-right: 40px;
+}
+
+.lg
+{
+    padding: 30px 30px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+}
+
+body{
+    padding-top: 40px;
+}
+
+span{
+    position: absolute;
+    left: 70px;
+    top: 30px;
+    font-size: 30px;
+    background-color: #fff;
+}
